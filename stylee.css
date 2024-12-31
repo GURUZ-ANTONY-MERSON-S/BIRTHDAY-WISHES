@@ -1,0 +1,31 @@
+body{
+   
+
+  background-image: url(C:\Users\Win10\Desktop\PROJECT\littleg.PNG.jpg);
+ 
+button{
+    color: rgb(239, 245, 245);
+    width: 60;
+    height: 60;
+
+}
+
+}
+img{
+display: inline-block;
+float: right;
+
+width: 230px;
+height: auto;
+}
+.c{
+ margin-top: 30px;
+}
+.cs{
+  float: left;
+  width: 180px;
+  height: auto;
+}
+.hr{
+  margin-top: 80px;
+}
